@@ -1,0 +1,33 @@
+{
+  "name": "geoloc",
+  "version": "1.0.0",
+  "description": "Sample Geolocation API",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charlemagne3/geoloc.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mocha",
+    "chai"
+  ],
+  "author": "Charles Perniciaro III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charlemagne3/geoloc/issues"
+  },
+  "homepage": "https://github.com/Charlemagne3/geoloc#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^6.1.4"
+  }
+}
