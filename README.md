@@ -48,7 +48,6 @@ Calculates the distance between locations
     {
         "name": "location1",
         "closest": "location0"
-
     }
 ]
 ```
